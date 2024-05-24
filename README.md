@@ -1,27 +1,27 @@
 # WebLikeNetflix
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.3.
+This project was bade by wathcing a tutorial.Is just home page and google authentication. 
+Tutorial: https://www.youtube.com/watch?v=x22dcRnYRAM
+
+# Project details
+- Information sor of movies TMDB: https://developer.themoviedb.org/reference/intro/getting-started
+- TAILWIND CSS
+- Angular 17
+- Google authentication
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+# Images
+ Login page.
+ ![Screenshot 2024-05-24 144544](https://github.com/IrinnAGrig/Netflix_like_home_page/assets/98234061/6821dd7d-a4cb-4b85-8546-ec17f3028b0f)
+ 
+ Home page upper part
+![Screenshot 2024-05-24 144329](https://github.com/IrinnAGrig/Netflix_like_home_page/assets/98234061/25f44e21-bb8c-4716-a85b-884235e4f73c)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Section with movies
+![Screenshot 2024-05-24 144834](https://github.com/IrinnAGrig/Netflix_like_home_page/assets/98234061/b1dbbb90-d7d0-4c12-8f96-e70450d4844b)
 
-## Build
+ 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
