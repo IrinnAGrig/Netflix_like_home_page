@@ -1,7 +1,6 @@
 # WebLikeNetflix
 
-This project was bade by wathcing a tutorial.Is just home page and google authentication. 
-Tutorial: https://www.youtube.com/watch?v=x22dcRnYRAM
+This project was bade by wathcing a tutorial.Is just home page and google authentication.
 
 # Project details
 - Information sor of movies TMDB: https://developer.themoviedb.org/reference/intro/getting-started
